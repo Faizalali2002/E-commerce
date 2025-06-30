@@ -1,0 +1,13 @@
+# React
+/frontend/node_modules/
+/frontend/build/
+/frontend/dist/
+
+# Spring Boot
+/backend/target/
+/backend/.idea/
+*.iml
+
+# Common
+.DS_Store
+.vscode/
